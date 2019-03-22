@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+## Meet Eric
+  Avid Sports Fan, Detailed Video Gamer, and immenseley determined candidate seeking employment in the aforementioned industries. 
 
-You can use the [editor on GitHub](https://github.com/edstrusk/ist195-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Skillset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Problem Solver
+  Passionate for puzzles and solving all types of problems. Upon completing a degree in Mathematics as well as undertaking a management position, it was apparent my passion had evolved into a skillset
 
-# Header 1
-## Header 2
-### Header 3
+# Technology Geek
+  Born and raised alongside the dot-com bubble, I was fascinated by this emerging technology before I could walk on my own two feet. With each year of schooling my devotion only grew, until I was a full-fledged tech nerd. From here I would spend my days surfing the web, playing video games, and ultimately researching what possibilities my future could and would hold in this booming industry.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Charismatic Leader
+  My passion as a leader and IT administrator includes overview of local businesses in an effort to minimize disorganization and maximize productivity. With a detail-oriented approach I am able to visualize solutions to apparent inefficiencies. After developing a solution, and with a professional, albeit charismatic manner, I convey the fix to whomever is in charge.
