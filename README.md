@@ -1,4 +1,5 @@
 <div style="display:flex;justify-content:center;align-items:center;">
+
 # Meet Eric
   Avid Sports Fan, Detailed Video Gamer, and immenseley determined candidate seeking employment in the aforementioned industries. 
 
@@ -15,4 +16,5 @@
 
 ### Charismatic Leader
   My passion as a leader and IT administrator includes overview of local businesses in an effort to minimize disorganization and maximize productivity. With a detail-oriented approach I am able to visualize solutions to apparent inefficiencies. After developing a solution, and with a professional, albeit charismatic manner, I convey the fix to whomever is in charge.
+
 </div>
